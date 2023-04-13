@@ -2,5 +2,5 @@
   "name": "Test repository",
   "description": "",
   "manifestVersion": 1,
-  "pluginLists": ["https://raw.githubusercontent.com/Solominou/test/builds/plugins.json"]
+  "pluginLists": ["https://raw.githubusercontent.com/Solominou/New/builds/plugins.json"]
 }
