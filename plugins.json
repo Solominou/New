@@ -1,5 +1,24 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/Solominou/New/main/StremioX/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 71775,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "StremioX",
+        "description": "- StremioX allows you to use stream addons \n- StremioC allows you to use catalog addons \n<!> Requires Setup",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/StremioX.cs3",
+        "name": "StremioX"
+    },{
         "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
