@@ -22,5 +22,5 @@ cloudstream {
         "Movie",
     )
 
-    iconUrl = "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/StremioX/icon.png"
+    iconUrl = "https://raw.githubusercontent.com/Solominou/new/main/StremioX/icon.png"
 }
