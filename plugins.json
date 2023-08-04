@@ -257,28 +257,6 @@
         "name": "FStreamProvider"
     },
     {
-
-        "iconUrl": "https://www.google.com/s2/favicons?domain=franceiptv.fr/&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 76919,
-        "status": 1,
-        "authors": [
-            "Eddy"
-        ],
-        "tvTypes": [
-            "Live",
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 9,
-        "internalName": "MaciptvProvider",
-        "description": "Add your IPTV account or use the default account to watch Live TV, Movies,TvSeries ...",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/MaciptvProvider.cs3",
-        "name": "MaciptvProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.pe&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/new",
@@ -395,25 +373,6 @@
         "internalName": "Topdocumentaryfilms",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/Topdocumentaryfilms.cs3",
         "name": "Topdocumentaryfilms"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 14105,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 13,
-        "internalName": "YomoviesProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/YomoviesProvider.cs3",
-        "name": "YomoviesProvider"
     },
       {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
