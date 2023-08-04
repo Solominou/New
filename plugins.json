@@ -200,28 +200,6 @@
         "name": "MyCimaProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 13836,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 2,
-        "internalName": "FaselAsiaProvider",
-        "description": "",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHDProvider.cs3",
-        "name": "FaselAsiaProvider"
-    },
-    {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
         "fileSize": 5144,
@@ -277,5 +255,203 @@
         "description": "Sites en Fran\u00e7ais, bas\u00e9 sur SoraStream et TMDB",
         "url": "https://github.com/Solominou/New/raw/main/FStreamProvider.cs3",
         "name": "FStreamProvider"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 18232,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Dizikorea",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/Dizikorea.cs3",
+        "name": "Dizikorea"
+    },
+    {
+
+        "iconUrl": "https://www.google.com/s2/favicons?domain=franceiptv.fr/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 76919,
+        "status": 1,
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Live",
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "MaciptvProvider",
+        "description": "Add your IPTV account or use the default account to watch Live TV, Movies,TvSeries ...",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/MaciptvProvider.cs3",
+        "name": "MaciptvProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.pe&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 13078,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Kissasian",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/Kissasian.cs3",
+        "name": "Kissasian"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 18807,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "KisskhProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 11252,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sora"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "Paradisehill",
+        "description": "Series porn (use VPN if links not working)",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/Paradisehill.cs3",
+        "name": "Paradisehill"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Solominou/sorastream/master/SoraStream/Icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 242694,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo",
+            "Minou"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 106,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 21741,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 14,
+        "internalName": "TimefourTv",
+        "description": "Sport Live Stream",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/TimefourTv.cs3",
+        "name": "TimefourTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=topdocumentaryfilms.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 10193,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "Topdocumentaryfilms",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/Topdocumentaryfilms.cs3",
+        "name": "Topdocumentaryfilms"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 15018,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "WcofunProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/WcofunProvider.cs3",
+        "name": "WcofunProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 14105,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "YomoviesProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/YomoviesProvider.cs3",
+        "name": "YomoviesProvider"
     }
+     
 ]
