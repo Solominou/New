@@ -1,8 +1,8 @@
 {
     "name": "Sorastream providers repository",
-    "description": "Cloudstream Sorastream Plugin Repository",
+    "description": "Cloudstream Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Solominou/sorastream/builds/plugins.json"
+      "https://raw.githubusercontent.com/Solominou/New/builds/plugins.json"
     ]
   }
