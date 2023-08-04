@@ -253,7 +253,7 @@
         "version": 1,
         "internalName": "FrenchProvider",
         "description": "Sites en Fran\u00e7ais, bas\u00e9 sur SoraStream et TMDB",
-        "url": "https://github.com/Solominou/New/raw/main/FStreamProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FStreamProvider.cs3",
         "name": "FStreamProvider"
     },
     {
