@@ -411,6 +411,25 @@
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/GoodPorn.cs3",
         "name": "GoodPorn"
     },
+         {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 14105,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "YomoviesProvider",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YomoviesProvider.cs3",
+        "name": "YomoviesProvider"
+    },
       {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
         "apiVersion": 1,
