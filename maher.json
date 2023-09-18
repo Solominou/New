@@ -1,1 +1,8 @@
-
+{
+    "name": "maher providers repository",
+    "description": "Cloudstream Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Solominou/New/builds/plugins.json"
+    ]
+  }
