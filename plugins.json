@@ -1,26 +1,5 @@
 [
      {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 13712,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Others",
-            "Cartoon"
-        ],
-        "version": 2,
-        "internalName": "AkwamProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/AkwamProvider.cs3",
-        "name": "AkwamProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
