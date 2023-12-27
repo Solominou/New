@@ -20,26 +20,7 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
-        {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "Solo"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 5,
-        "internalName": "AkwamProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/AkwamProvider.cs3",
-        "name": "Akwam"
-    },
+
 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
