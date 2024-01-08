@@ -41,26 +41,6 @@
         "name": "AnimeiatProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 4,
-        "internalName": "EgyDeadProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/EgyDeadProvider.cs3",
-        "name": "EgyDeadProvider"
-    },
-    {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
         "fileSize": 19921,
@@ -99,27 +79,6 @@
         "internalName": "FajerShowProvider",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/FajerShowProvider.cs3",
         "name": "FajerShowProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 16194,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 7,
-        "internalName": "FaselHDProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHDProvider.cs3",
-        "name": "FaselHDProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
