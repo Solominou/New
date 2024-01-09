@@ -20,7 +20,25 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
-
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Solominou/New",
+    "fileSize": 16392,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "kingslayer_007"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 11,
+    "internalName": "ArabSeedProvider",
+    "url": "https://raw.githubusercontent.com/Solominou/New/builds/ArabSeedProvider.cs3",
+    "name": "ArabSeedProvider"
+},
 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
