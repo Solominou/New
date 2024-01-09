@@ -405,6 +405,26 @@
         "url": "https://raw.githubusercontent.com/solominou/new/builds/ArabLionz.cs3",
         "name": "ArabLionzProvider"
     },
+     {
+        "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 154523,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "disroot.org/ayza/FStream"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "FStream",
+        "description": "Nouveau fournisseur BlackInk (pas besoin de alldebrid)!",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/FStream.cs3",
+        "name": "FStream"
+     },
       {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
         "apiVersion": 1,
