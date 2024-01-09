@@ -99,26 +99,6 @@
         "name": "FushaarProvider"
     },
     {
-        "iconUrl": "https://b.gateanime.cam/wp-content/uploads/2020/12/cropped-Favicon-192x192.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 11621,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie",
-            "Cartoon"
-        ],
-        "version": 3,
-        "internalName": "GateAnimeProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/GateAnimeProvider.cs3",
-        "name": "GateAnimeProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -157,27 +137,6 @@
         "name": "VidSrcProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcostream.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 16186,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Cartoon",
-            "Anime",
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "WatchCartoonOnlineProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/WatchCartoonOnlineProvider.cs3",
-        "name": "WatchCartoonOnlineProvider"
-    },
-    {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
         "fileSize": 106639,
@@ -194,45 +153,6 @@
         "description": "Sites en Fran\u00e7ais, bas\u00e9 sur SoraStream et TMDB",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/FStreamProvider.cs3",
         "name": "FStreamProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.pe&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 13078,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 1,
-        "internalName": "Kissasian",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/Kissasian.cs3",
-        "name": "Kissasian"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 18807,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "KisskhProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/KisskhProvider.cs3",
-        "name": "KisskhProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
@@ -294,24 +214,6 @@
         "description": "Sport Live Stream",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/TimefourTv.cs3",
         "name": "TimefourTv"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=topdocumentaryfilms.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 10193,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Documentary"
-        ],
-        "version": 1,
-        "internalName": "Topdocumentaryfilms",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/Topdocumentaryfilms.cs3",
-        "name": "Topdocumentaryfilms"
     },
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
