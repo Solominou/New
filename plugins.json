@@ -292,6 +292,101 @@
         "url": "https://raw.githubusercontent.com/solominou/new/builds/YomoviesProvider.cs3",
         "name": "YomoviesProvider"
     },
+     {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Solominou/new",
+    "fileSize": 16939,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "KingSlayer_007"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 3,
+    "internalName": "Shoffree",
+    "url": "https://raw.githubusercontent.com/solominou/new/builds/ShoffreeProvider.cs3",
+    "name": "ShoffreeProvider"
+},
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "SagaProvider",
+        "url": "https://raw.githubusercontent.com/solominou/new/builds/SagaProvider.cs3",
+        "name": "SagaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "ToktokProvider",
+        "url": "https://raw.githubusercontent.com/solominou/new/builds/Toktok.cs3",
+        "name": "ToktokProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=o77.shop&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "Cima4uProvider",
+        "url": "https://raw.githubusercontent.com/solominou/new/builds/Cima4u.cs3",
+        "name": "Cima4uProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=arlionztv.click&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "ArabLionzProvider",
+        "url": "https://raw.githubusercontent.com/solominou/new/builds/ArabLionz.cs3",
+        "name": "ArabLionzProvider"
+    },
       {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
         "apiVersion": 1,
