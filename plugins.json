@@ -117,7 +117,46 @@
         "version": 7,
         "internalName": "FaselHDProvider",
         "url": "https://raw.githubusercontent.com/Solominou/arab/builds/FaselHDProvider.cs3",
+        "name": "FaselHDAsian"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "FaselHDProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/FaselHDProvider2.cs3",
         "name": "FaselHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 11561,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Spoonge"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FushaarProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FushaarProvider.cs3",
+        "name": "FushaarProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
