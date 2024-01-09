@@ -158,24 +158,6 @@
         "name": "VidSrcProvider"
     },
     {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 106639,
-        "status": 1,
-        "authors": [
-            "user"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "FrenchProvider",
-        "description": "Sites en Fran\u00e7ais, bas\u00e9 sur SoraStream et TMDB",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FStreamProvider.cs3",
-        "name": "FStreamProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/new",
