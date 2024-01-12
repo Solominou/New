@@ -34,7 +34,7 @@
         "TvSeries",
         "Movie"
     ],
-    "version": 11,
+    "version": 3,
     "internalName": "ArabSeedProvider",
     "url": "https://raw.githubusercontent.com/Solominou/New/builds/ArabSeedProvider.cs3",
     "name": "ArabSeedProvider"
@@ -343,7 +343,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 6,
+        "version": 2,
         "internalName": "SagaProvider",
         "url": "https://raw.githubusercontent.com/solominou/new/builds/SagaProvider.cs3",
         "name": "SagaProvider"
@@ -362,7 +362,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 6,
+        "version": 3,
         "internalName": "ToktokProvider",
         "url": "https://raw.githubusercontent.com/solominou/new/builds/Toktok.cs3",
         "name": "ToktokProvider"
@@ -381,7 +381,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 7,
         "internalName": "Cima4uProvider",
         "url": "https://raw.githubusercontent.com/solominou/new/builds/Cima4u.cs3",
         "name": "Cima4uProvider"
@@ -400,7 +400,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 7,
         "internalName": "ArabLionzProvider",
         "url": "https://raw.githubusercontent.com/solominou/new/builds/ArabLionz.cs3",
         "name": "ArabLionzProvider"
