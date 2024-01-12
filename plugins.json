@@ -419,7 +419,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 6,
         "internalName": "FStream",
         "description": "Nouveau fournisseur BlackInk (pas besoin de alldebrid)!",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/FStream.cs3",
