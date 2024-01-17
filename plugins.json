@@ -464,6 +464,27 @@
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
         "name": "EgydeadProvider"
     },
+    {
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1196694385061003334/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 72657,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Superstream",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Superstream.cs3",
+        "name": "Superstream"
+    },
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
         "apiVersion": 1,
