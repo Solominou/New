@@ -23,7 +23,7 @@
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asia2tv.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "repositoryUrl": "https://github.com/Solominou/New",
         "fileSize": 13531,
         "status": 1,
         "language": "ar",
@@ -36,13 +36,13 @@
         ],
         "version": 1,
         "internalName": "asian2tv",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/asian2tv.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/asian2tv.cs3",
         "name": "asian2tv"
     },
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "repositoryUrl": "https://github.com/Solominou/new",
         "fileSize": 13531,
         "status": 1,
         "language": "ar",
@@ -55,7 +55,7 @@
         ],
         "version": 1,
         "internalName": "3isk",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk.cs3",
         "name": "3isk"
     },
      {
@@ -313,7 +313,7 @@
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=goodporn.to&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Solominou/new",
         "fileSize": 10948,
         "status": 1,
         "language": "en",
@@ -466,7 +466,7 @@
          {
         "iconUrl": "https://i.ibb.co/0VTHBBL/Design-sans-titre.jpg",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "repositoryUrl": "https://github.com/Solominou/new",
         "fileSize": 15379,
         "status": 1,
         "language": "ar",
@@ -479,13 +479,13 @@
         "version": 22,
         "internalName": "TvLive",
         "description": "Sport Live Stream Filtered NSFW 'SO HALAL MODE'",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Dlhd.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Dlhd.cs3",
         "name": "TvLive"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "repositoryUrl": "https://github.com/Solominou/new",
         "fileSize": 13531,
         "status": 1,
         "language": "ar",
@@ -505,7 +505,7 @@
     {
         "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1196694385061003334/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Solominou/new",
         "fileSize": 72657,
         "status": 1,
         "language": "en",
@@ -520,7 +520,7 @@
         ],
         "version": 1,
         "internalName": "Superstream",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Superstream.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Superstream.cs3",
         "name": "Superstream"
     },
      {
