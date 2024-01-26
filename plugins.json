@@ -58,6 +58,26 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk.cs3",
         "name": "3isk"
     },
+         {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "3isk v2",
+        "description": "New 3isk Site this one has 1080p quality and maybe this is the Real Site",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk_2.cs3",
+        "name": "3isk v2"
+    },
      {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
