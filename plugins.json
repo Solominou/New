@@ -555,7 +555,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "InvidiousProvider",
         "description": "Watch content from any invidious instance",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/InvidiousProvider.cs3",
