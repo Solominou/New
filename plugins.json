@@ -543,6 +543,62 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/Superstream.cs3",
         "name": "Superstream"
     },
+        {
+        "iconUrl": "https://i.ibb.co/ygGWcC0/oha-letter-logo-design-on-black-background-oha-creative-initials-letter-logo-concept-oha-letter-desi.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 15379,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Ohatv",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/ohatv.cs3",
+        "name": "Ohatv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://3kora.syrialive.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 15379,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "Syrialive",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/syriatv.cs3",
+        "name": "Syrialive"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cooolman.store&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 6,
+        "internalName": "CoolCima",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/coolcima.cs3",
+        "name": "CoolCima"
+    },
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
         "apiVersion": 1,
