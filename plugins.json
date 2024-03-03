@@ -1,5 +1,25 @@
 [
      {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cinema.365ar.show&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "365 SHOW",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/365.cs3",
+        "name": "365 SHOW"
+    },
+     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
