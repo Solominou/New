@@ -45,7 +45,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
         "fileSize": 13531,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "KingSlayer_007"
@@ -64,7 +64,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/new",
         "fileSize": 13531,
-        "status": 1,
+        "status": 0,
         "language": "ar",
         "authors": [
             "KingSlayer_007"
@@ -196,24 +196,6 @@
         "internalName": "FaselHDProvider",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHDProvider.cs3",
         "name": "FaselHDProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 11561,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "Spoonge"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "FushaarProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FushaarProvider.cs3",
-        "name": "FushaarProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
