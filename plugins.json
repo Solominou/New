@@ -1,25 +1,5 @@
 [
      {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cinema.365ar.show&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 16939,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 5,
-        "internalName": "365 SHOW",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/365.cs3",
-        "name": "365 SHOW"
-    },
-     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -62,25 +42,6 @@
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "3isk",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk.cs3",
-        "name": "3isk"
-    },
-         {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
-        "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
         "fileSize": 13531,
         "status": 1,
@@ -98,26 +59,6 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk_2.cs3",
         "name": "3isk v2"
     },
-     {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Solominou/New",
-    "fileSize": 16392,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie"
-    ],
-    "version": 3,
-    "internalName": "ArabSeedProvider",
-    "url": "https://raw.githubusercontent.com/Solominou/New/builds/ArabSeedProvider.cs3",
-    "name": "ArabSeedProvider"
-},
-
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
         "apiVersion": 1,
@@ -217,24 +158,6 @@
         "internalName": "FaselAsian",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselKorean.cs3",
         "name": "FaselKorean"
-    },
-     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 11561,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "Spoonge"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "FushaarProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FushaarProvider.cs3",
-        "name": "FushaarProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
@@ -391,25 +314,6 @@
         "url": "https://raw.githubusercontent.com/solominou/new/builds/YomoviesProvider.cs3",
         "name": "YomoviesProvider"
     },
-     {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Solominou/new",
-    "fileSize": 16939,
-    "status": 0,
-    "language": "ar",
-    "authors": [
-        "KingSlayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie"
-    ],
-    "version": 3,
-    "internalName": "Shoffree",
-    "url": "https://raw.githubusercontent.com/solominou/new/builds/ShoffreeProvider.cs3",
-    "name": "ShoffreeProvider"
-},
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
         "apiVersion": 1,
@@ -429,83 +333,6 @@
         "url": "https://raw.githubusercontent.com/solominou/new/builds/SagaProvider.cs3",
         "name": "SagaProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "ToktokProvider",
-        "url": "https://raw.githubusercontent.com/solominou/new/builds/Toktok.cs3",
-        "name": "ToktokProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=o77.shop&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 7,
-        "internalName": "Cima4uProvider",
-        "url": "https://raw.githubusercontent.com/solominou/new/builds/Cima4u.cs3",
-        "name": "Cima4uProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=arlionztv.click&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 7,
-        "internalName": "ArabLionzProvider",
-        "url": "https://raw.githubusercontent.com/solominou/new/builds/ArabLionz.cs3",
-        "name": "ArabLionzProvider"
-    },
-     {
-        "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 154523,
-        "status": 1,
-        "language": "fr",
-        "authors": [
-            "disroot.org/ayza/FStream"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "FStream",
-        "description": "Nouveau fournisseur BlackInk (pas besoin de alldebrid)!",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/FStream.cs3",
-        "name": "FStream"
-     },
          {
         "iconUrl": "https://i.ibb.co/0VTHBBL/Design-sans-titre.jpg",
         "apiVersion": 1,
@@ -545,28 +372,7 @@
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
         "name": "EgydeadProvider"
     },
-    {
-        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1196694385061003334/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 72657,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Superstream",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Superstream.cs3",
-        "name": "Superstream"
-    },
-        {
+     {
         "iconUrl": "https://i.ibb.co/ygGWcC0/oha-letter-logo-design-on-black-background-oha-creative-initials-letter-logo-concept-oha-letter-desi.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/new",
@@ -621,26 +427,6 @@
         "internalName": "CoolCima",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/coolcima.cs3",
         "name": "CoolCima"
-    },
-         {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 13531,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "CimaNowProvider",
-        "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/CimaNowProvider.cs3",
-        "name": "CimaNowProvider"
     },
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
