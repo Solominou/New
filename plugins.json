@@ -449,6 +449,26 @@
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/coolcima.cs3",
         "name": "CoolCima"
     },
+         {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 15231,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 28,
+        "internalName": "YomoviesProvider",
+        "description": "Includes: Watchomovies(NS*W), Max resolution is 720p in both extensions.",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/YomoviesProvider.cs3",
+        "name": "YomoviesProvider"
+    },
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
         "apiVersion": 1,
