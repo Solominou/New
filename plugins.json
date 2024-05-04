@@ -20,6 +20,27 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
+         {
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1196694385061003334/icon.png?ex=65efee7e&is=65dd797e&hm=18fa57323826d0cbf3cf5ce7d3f5705de640f2f8d08739d41f95882d2ae0a3e0&",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 73982,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Superstream",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Superstream.cs3",
+        "name": "Superstream"
+    },
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asia2tv.com&sz=%size%",
         "apiVersion": 1,
