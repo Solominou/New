@@ -41,6 +41,25 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/Superstream.cs3",
         "name": "Superstream"
     },
+         {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://raw.githubusercontent.com/Solominou",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "ToktokProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Toktok.cs3",
+        "name": "ToktokProvider"
+    },    
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asia2tv.com&sz=%size%",
         "apiVersion": 1,
