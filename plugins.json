@@ -354,25 +354,6 @@
         "url": "https://raw.githubusercontent.com/solominou/new/builds/GoodPorn.cs3",
         "name": "GoodPorn"
     },
-         {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 14105,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 13,
-        "internalName": "YomoviesProvider",
-        "url": "https://raw.githubusercontent.com/solominou/new/builds/YomoviesProvider.cs3",
-        "name": "YomoviesProvider"
-    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
         "apiVersion": 1,
@@ -428,7 +409,7 @@
         ],
         "version": 4,
         "internalName": "EgyDeadProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/EgyDeadProvider.cs3",
         "name": "EgydeadProvider"
     },
      {
