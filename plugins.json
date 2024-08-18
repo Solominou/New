@@ -521,7 +521,7 @@
             "Movie",
             "Anime"
         ],
-        "version": -1,
+        "version": 2,
         "internalName": "Y.A.P.S",
         "description": "YAPS",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/yaps.cs3",
