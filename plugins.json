@@ -521,7 +521,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 2,
+        "version": 1,
         "internalName": "Y.A.P.S",
         "description": "YAPS",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/yaps.cs3",
@@ -540,7 +540,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 2,
+        "version": 1,
         "internalName": "Cimastar",
         "description": "Cima star",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/cimastar.cs3",
