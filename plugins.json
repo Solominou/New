@@ -20,27 +20,7 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
-         {
-        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1196694385061003334/icon.png?ex=65efee7e&is=65dd797e&hm=18fa57323826d0cbf3cf5ce7d3f5705de640f2f8d08739d41f95882d2ae0a3e0&",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 73982,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Superstream",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Superstream.cs3",
-        "name": "Superstream"
-    },
+       
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
         "apiVersion": 1,
@@ -99,24 +79,7 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk_2.cs3",
         "name": "3isk v2"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 20624,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 2,
-        "internalName": "AnimeiatProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/AnimeiatProvider.cs3",
-        "name": "AnimeiatProvider"
-    },
+ 
     {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -156,27 +119,6 @@
         "internalName": "FajerShowProvider",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/FajerShowProvider.cs3",
         "name": "FajerShowProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 16194,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 7,
-        "internalName": "FaselHDProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHDProvider.cs3",
-        "name": "FaselHDProvider"
     },
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
@@ -279,25 +221,7 @@
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/SoraStream.cs3",
         "name": "SoraStream"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 21741,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 14,
-        "internalName": "TimefourTv",
-        "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/TimefourTv.cs3",
-        "name": "TimefourTv"
-    },
+
          {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
         "apiVersion": 1,
@@ -354,25 +278,7 @@
         "url": "https://raw.githubusercontent.com/solominou/new/builds/SagaProvider.cs3",
         "name": "SagaProvider"
     },
-         {
-        "iconUrl": "https://i.ibb.co/0VTHBBL/Design-sans-titre.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 15379,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 22,
-        "internalName": "TvLive",
-        "description": "Sport Live Stream Filtered NSFW 'SO HALAL MODE'",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Dlhd.cs3",
-        "name": "TvLive"
-    },
+ 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
         "apiVersion": 1,
@@ -392,42 +298,6 @@
         "internalName": "EgyDeadProvider",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/EgyDeadProvider.cs3",
         "name": "EgydeadProvider"
-    },
-     {
-        "iconUrl": "https://i.ibb.co/ygGWcC0/oha-letter-logo-design-on-black-background-oha-creative-initials-letter-logo-concept-oha-letter-desi.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 15379,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "Ohatv",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/ohatv.cs3",
-        "name": "Ohatv"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://3kora.syrialive.online&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 15379,
-        "status": 0,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 4,
-        "internalName": "Syrialive",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/syriatv.cs3",
-        "name": "Syrialive"
     },
       {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
@@ -466,26 +336,5 @@
         "description": "Watch content from any invidious instance",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/InvidiousProvider.cs3",
         "name": "InvidiousProvider"
-    },
-     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://yaps.therarbg.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://raw.githubusercontent.com/Solominou/new",
-        "fileSize": 16939,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "Y.A.P.S",
-        "description": "YAPS",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/yaps.cs3",
-        "name": "Y.A.P.S"
-    }
+     }
 ]
