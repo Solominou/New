@@ -429,27 +429,7 @@
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/syriatv.cs3",
         "name": "Syrialive"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cooolman.store&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 16939,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 6,
-        "internalName": "CoolCima",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/coolcima.cs3",
-        "name": "CoolCima"
-    },
-         {
+      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/new",
