@@ -56,7 +56,7 @@
     ],
     "version": 16,
     "internalName": "ArabSeedProvider",
-    "url": "https://raw.githubusercontent.com/Solominou/New/build/ArabSeedProvider.cs3",
+    "url": "https://raw.githubusercontent.com/Solominou/New/builds/ArabSeedProvider.cs3",
     "name": "ArabSeedProvider"
     },
      {
@@ -95,7 +95,7 @@
         "version": 9,
         "internalName": "CimaNowProvider",
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
-        "url": "https://raw.githubusercontent.com/Solominou/New/build/CimaNowProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/CimaNowProvider.cs3",
         "name": "CimaNowProvider"
     },
      {
@@ -115,7 +115,7 @@
         ],
         "version": 7,
         "internalName": "CoolCima",
-        "url": "https://raw.githubusercontent.com/Solominou/New/build/coolcima.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/coolcima.cs3",
         "name": "CoolCima"
     },
      {
@@ -136,7 +136,7 @@
         "version": 1,
         "internalName": "Drama Cafe",
         "description": "Drama Cafe",
-        "url": "https://raw.githubusercontent.com/Solominou/New/build/dramacafe.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/dramacafe.cs3",
         "name": "Drama Cafe"
     },
      {
@@ -312,7 +312,7 @@
         ],
         "version": 1,
         "internalName": "JOY Cinema",
-        "url": "https://raw.githubusercontent.com/Solominou/New/build/joynema.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/joynema.cs3",
         "name": "JOY Cinema"
     },
      {
