@@ -54,7 +54,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 7,
         "internalName": "ArabLionzProvider",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/ArabLionz.cs3",
         "name": "ArabLionzProvider"
