@@ -40,6 +40,25 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
+         {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=arlionztv.click&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 13531,
+        "status": 0,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "ArabLionzProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/ArabLionz.cs3",
+        "name": "ArabLionzProvider"
+    },
      {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
