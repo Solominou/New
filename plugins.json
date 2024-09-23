@@ -99,26 +99,6 @@
         "name": "CimaNowProvider"
     },
      {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cooolman.store&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 16939,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 7,
-        "internalName": "CoolCima",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/coolcima.cs3",
-        "name": "CoolCima"
-    },
-     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://w22.dramacafe-tv.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
