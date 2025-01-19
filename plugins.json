@@ -137,6 +137,25 @@
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TimefourTv.cs3",
         "name": "TimefourTv"
     },
+         {
+        "iconUrl": "https://www.fullreplays.com/wp-content/uploads/2023/05/logo-ball-150x150.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 9943,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Redowan"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 3,
+        "internalName": "FullReplays",
+        "description": "Watch Football Full Match Replay and Shows",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FullReplays.cs3",
+        "name": "FullReplays"
+    },
      {
         "iconUrl": "https://i.ibb.co/w4BnkC9/GwxAcDV.png",
         "apiVersion": 1,
@@ -199,7 +218,7 @@
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "name": "StreamPlay"
     },
-{
+     {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/4961/4961639.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
@@ -220,7 +239,7 @@
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
         "name": "Extractors"
     },  
- {
+     {
         "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
@@ -240,7 +259,25 @@
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
         "name": "NetflixMirrorProvider"
     },
-         {
+     {
+        "iconUrl": "https://raw.githubusercontent.com/rockhero1234/extensions/refs/heads/master/Screenshot_20241012-211513_Binged%7E3.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 11382,
+        "status": 1,
+        "authors": [
+            "Dilip"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "BingedReview",
+        "description": "Data about streaming and review",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/BingedReview.cs3",
+        "name": "BingedReview"
+    },
+      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://cooolman.store&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -260,7 +297,25 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/coolcima.cs3",
         "name": "CoolCima"
     },
-     
+     {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Coflix.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 22988,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie,Anime,Cartoon"
+        ],
+        "version": 3,
+        "internalName": "Coflix",
+        "description": "Movies,Series and Anime French Extension ",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.cs3",
+        "name": "Coflix"
+    },
      {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
@@ -420,6 +475,27 @@
         "name": "InvidiousProvider"
     },
      {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 22699,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher,Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "KisskhProvider",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -476,6 +552,44 @@
         "description": "Spankbang",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/spankbang.cs3",
         "name": "spankbang"
+    },
+         {
+        "iconUrl": "https://www.toontales.net/wp-content/themes/toontales/images/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 9092,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "ToonTales",
+        "description": "ToonTales",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonTales.cs3",
+        "name": "ToonTales"
+    },
+     {
+        "iconUrl": "https://www.topcartoons.tv/wp-content/uploads/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 8867,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "Topcartoons",
+        "description": "Top Cartoon",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topcartoons.cs3",
+        "name": "Topcartoons"
     },
      {
         "apiVersion": 1,
