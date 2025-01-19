@@ -19,6 +19,25 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk_2.cs3",
         "name": "3isk v2"
     },
+      {
+        "iconUrl": "http://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
+        "fileSize": 17542,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Mangoporn",
+        "description": "MangoPorn",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/Mangoporn.cs3",
+        "name": "Mangoporn"
+    },
      {
         "iconUrl": "https://www.film1k.com/wp-content/uploads/2023/05/cropped-film1k-1.png",
         "apiVersion": 1,
@@ -362,8 +381,27 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHD.cs3",
         "name": "FaselHD"
     },
-     
-          {
+     {
+        "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/ayza/FStream/",
+        "fileSize": 108629,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "disroot.org/ayza/FStream"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 16,
+        "internalName": "FStream",
+        "description": "Ajout de NetflixMirror 1080p (repo CSX extension codée par HORIS), Programmez des sources facilement avec la nouvelle implementation !",
+        "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
+        "name": "FStream"
+    },
+     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/extensions",
@@ -420,8 +458,26 @@
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/Paradisehill.cs3",
         "name": "Paradisehill"
     },
-      
-    {
+       {
+        "iconUrl": "https://logos-world.net/wp-content/uploads/2023/01/SpankBang-Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
+        "fileSize": 9701,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "spankbang",
+        "description": "Spankbang",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/spankbang.cs3",
+        "name": "spankbang"
+    },
+     {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
         "fileSize": 5144,
