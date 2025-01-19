@@ -85,28 +85,6 @@
         "name": "NetflixMirrorProvider"
     },
      {
-        "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 116159,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "version": 58,
-        "internalName": "CineStream",
-        "description": "Multi API Extension",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
-        "name": "CineStream"
-    },
-     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=o77.shop&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -460,29 +438,7 @@
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/Paradisehill.cs3",
         "name": "Paradisehill"
     },
-     {
-        "iconUrl": "https://raw.githubusercontent.com/Solominou/sorastream/master/SoraStream/Icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 242694,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Solo",
-            "Minou"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 226,
-        "internalName": "SoraStream",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/SoraStream.cs3",
-        "name": "SoraStream"
-    },
+     
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
         "apiVersion": 1,
