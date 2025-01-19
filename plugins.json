@@ -20,6 +20,82 @@
         "name": "3isk v2"
     },
      {
+        "iconUrl": "https://img.cartooncdn.xyz/themes/kim/images/kimcartoon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 12406,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProviders"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "KimCartoon",
+        "description": "KimCartoon - Watch cartoons in high quality",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KimCartoon.cs3",
+        "name": "KimCartoon"
+    },
+     {
+        "iconUrl": "https://daddylivehd1.click/wp-content/uploads/2024/10/daddylive.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 15498,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "TimefourTv",
+        "description": "Sports Live Stream (Multi Region)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TimefourTv.cs3",
+        "name": "TimefourTv"
+    },
+     {
+        "iconUrl": "https://i.ibb.co/w4BnkC9/GwxAcDV.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 31115,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie,Torrent"
+        ],
+        "version": 3,
+        "internalName": "TorraStream",
+        "description": "Movies/Series/Animes 4K Support (Torrent)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TorraStream.cs3",
+        "name": "TorraStream"
+    },
+     {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/yts.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 15254,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie,Torrent"
+        ],
+        "version": 2,
+        "internalName": "YTS",
+        "description": "YTS Movies 4K Support (Torrent)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.cs3",
+        "name": "YTS"
+    },
+     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
