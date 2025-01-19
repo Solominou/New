@@ -20,6 +20,67 @@
         "name": "3isk v2"
     },
      {
+        "iconUrl": "https://www.film1k.com/wp-content/uploads/2023/05/cropped-film1k-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 10016,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Film1K"
+        ],
+        "tvTypes": [
+            "Movie",
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Film1K",
+        "description": "Watch Full Sexiest Movie For Free",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Film1K.cs3",
+        "name": "Film1K"
+    },
+     {
+        "iconUrl": "https://fzmovies.net/logo/imageedit_1_4567867331.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 12218,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Redowan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie"
+        ],
+        "version": 12,
+        "internalName": "FzMovies",
+        "description": "Only movie provider",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzMovies.cs3",
+        "name": "FzMovies"
+    },
+    {
+        "iconUrl": "https://fztvseries.live/logo/fztvseries2.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 10353,
+        "status": 2,
+        "language": "en",
+        "authors": [
+            "Redowan"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 4,
+        "internalName": "FzTvSeries",
+        "description": "Only TvSeries provider",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzTvSeries.cs3",
+        "name": "FzTvSeries"
+    },
+     {
         "iconUrl": "https://img.cartooncdn.xyz/themes/kim/images/kimcartoon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
