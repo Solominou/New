@@ -652,24 +652,5 @@
         "description": "Top Cartoon",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topcartoons.cs3",
         "name": "Topcartoons"
-    },
-     {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 5144,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "VidSrcProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/VidSrcProvider.cs3",
-        "name": "VidSrcProvider"
     }
-
 ]
