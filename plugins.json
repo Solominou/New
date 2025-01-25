@@ -284,7 +284,7 @@
      {
         "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/Solominou/New",
         "fileSize": 35544,
         "status": 1,
         "authors": [
@@ -298,7 +298,7 @@
         "version": 14,
         "internalName": "NetflixMirrorProvider",
         "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/NetflixMirrorProvider.cs3",
         "name": "NetflixMirrorProvider"
     },
      {
