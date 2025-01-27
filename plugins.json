@@ -20,6 +20,28 @@
         "name": "3isk v2"
     },
      {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 33297,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 26,
+        "internalName": "Loklok",
+        "description": "#2 best extension based on Loklok API",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Loklok.cs3",
+        "name": "Loklok"
+    },
+     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
