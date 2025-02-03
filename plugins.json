@@ -497,25 +497,6 @@
         "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
         "name": "FStream"
     },
-         {
-        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 39473,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "doGior"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 8,
-        "internalName": "YouTube",
-        "description": "Videos, playlists and channels from YouTube",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/YouTube.cs3",
-        "name": "YouTube"
-    },
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
         "apiVersion": 1,
