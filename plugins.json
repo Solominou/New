@@ -56,11 +56,36 @@
             "Anime",
             "Torrent"
         ],
-        "version": 61,
+        "version": 65,
         "internalName": "CineStream",
         "description": "Multi API Extension",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "name": "CineStream"
+    },
+     
+     {
+        "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 497111,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98",
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon"
+        ],
+        "version": 65,
+        "internalName": "CineTest",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/CineTest.cs3",
+        "name": "CineTest"
     },
      {
         "iconUrl": "http://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
@@ -254,7 +279,7 @@
             "Movie",
             "Cartoon"
         ],
-        "version": 136,
+        "version": 139,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -319,7 +344,7 @@
             "Movie",
             "Cartoon"
         ],
-        "version": 136,
+        "version": 139,
         "internalName": "StreamTest",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/StreamTest.cs3",
