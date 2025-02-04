@@ -20,27 +20,6 @@
         "name": "3isk v2"
     },
      {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 26629,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Cartoon"
-        ],
-        "version": 13,
-        "internalName": "AllMovieLandProvider",
-        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
-        "name": "AllMovieLandProvider"
-    },
-     {
         "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -61,6 +40,28 @@
         "description": "Multi API Extension",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/CineTest.cs3",
         "name": "CineTest"
+    },
+     {
+        "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 119174,
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "version": 65,
+        "internalName": "TestWest",
+        "description": "Multi API Extension",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/TestWest.cs3",
+        "name": "TestWest"
     },
      {
         "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
