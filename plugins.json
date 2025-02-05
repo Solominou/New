@@ -20,72 +20,6 @@
         "name": "3isk v2"
     },
      {
-        "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 119174,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "version": 65,
-        "internalName": "CineTest",
-        "description": "Multi API Extension",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/CineTest.cs3",
-        "name": "CineTest"
-    },
-     {
-        "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 119174,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "version": 65,
-        "internalName": "TestWest",
-        "description": "Multi API Extension",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/TestWest.cs3",
-        "name": "TestWest"
-    },
-     {
-        "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 119174,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "version": 65,
-        "internalName": "CineStream",
-        "description": "Multi API Extension",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
-        "name": "CineStream"
-    },
-     {
         "iconUrl": "http://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
@@ -122,47 +56,6 @@
         "description": "Watch Full Sexiest Movie For Free",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Film1K.cs3",
         "name": "Film1K"
-    },
-     {
-        "iconUrl": "https://fzmovies.net/logo/imageedit_1_4567867331.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 12218,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Redowan"
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie"
-        ],
-        "version": 12,
-        "internalName": "FzMovies",
-        "description": "Only movie provider",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzMovies.cs3",
-        "name": "FzMovies"
-    },
-    {
-        "iconUrl": "https://fztvseries.live/logo/fztvseries2.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 10353,
-        "status": 2,
-        "language": "en",
-        "authors": [
-            "Redowan"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 4,
-        "internalName": "FzTvSeries",
-        "description": "Only TvSeries provider",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzTvSeries.cs3",
-        "name": "FzTvSeries"
     },
      {
         "iconUrl": "https://img.cartooncdn.xyz/themes/kim/images/kimcartoon.png",
@@ -220,68 +113,6 @@
         "description": "Watch Football Full Match Replay and Shows",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FullReplays.cs3",
         "name": "FullReplays"
-    },
-     {
-        "iconUrl": "https://i.ibb.co/w4BnkC9/GwxAcDV.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 31115,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie,Torrent"
-        ],
-        "version": 3,
-        "internalName": "TorraStream",
-        "description": "Movies/Series/Animes 4K Support (Torrent)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TorraStream.cs3",
-        "name": "TorraStream"
-    },
-     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/yts.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 15254,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie,Torrent"
-        ],
-        "version": 2,
-        "internalName": "YTS",
-        "description": "YTS Movies 4K Support (Torrent)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.cs3",
-        "name": "YTS"
-    },
-      {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 497111,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98",
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon"
-        ],
-        "version": 139,
-        "internalName": "StreamPlay",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
-        "name": "StreamPlay"
     },
      {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/4961/4961639.png",
@@ -347,25 +178,6 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/StreamTest.cs3",
         "name": "StreamTest"
-    },
-     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=noxx.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 13252,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "LikDev-256,Phisher98"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "NOXXProvider",
-        "description": "HD TV Shows (Not all links are working because of a unsolvable issue)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/NOXXProvider.cs3",
-        "name": "NOXXProvider"
     },
      {
         "iconUrl": "https://raw.githubusercontent.com/rockhero1234/extensions/refs/heads/master/Screenshot_20241012-211513_Binged%7E3.png",
@@ -483,27 +295,6 @@
         "name": "EgydeadProvider"
     },
      {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 19921,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 1,
-        "internalName": "Extractorsa",
-        "description": "This is required to be downloaded.",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Extractorsa.cs3",
-        "name": "Extractorsa"
-     },
-     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -543,27 +334,6 @@
         "description": "Ajout de NetflixMirror 1080p (repo CSX extension codée par HORIS), Programmez des sources facilement avec la nouvelle implementation !",
         "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
         "name": "FStream"
-    },
-     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 22699,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher,Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "KisskhProvider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
-        "name": "KisskhProvider"
     },
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
