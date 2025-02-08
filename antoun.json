@@ -3,6 +3,6 @@
     "description": "Cloudstream Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Solominou/New/builds/plugins.json"
+      "https://raw.githubusercontent.com/Solominou/New/builds/plugins2.json"
     ]
   }
