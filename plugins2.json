@@ -1,4 +1,5 @@
-[{
+[
+    {
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/aymanbest/Arabico",
@@ -19,7 +20,28 @@
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/FaselHDProvider.cs3",
     "name": "FaselHDProvider"
 },
-{
+  {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "FaselHDS",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHDS.cs3",
+        "name": "FaselHDS"
+    },
+    {
     "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/aymanbest/Arabico",
