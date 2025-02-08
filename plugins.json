@@ -180,30 +180,6 @@
         "name": "StreamTest"
     },
      {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 497111,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98",
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon"
-        ],
-        "version": 139,
-        "internalName": "StreamTestF",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/StreamTestF.cs3",
-        "name": "StreamTestF"
-    },
-     {
         "iconUrl": "https://raw.githubusercontent.com/rockhero1234/extensions/refs/heads/master/Screenshot_20241012-211513_Binged%7E3.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
@@ -338,6 +314,27 @@
         "internalName": "FaselHD",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHD.cs3",
         "name": "FaselHD"
+    },
+          {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "FaselHDS",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHDS.cs3",
+        "name": "FaselHDS"
     },
      {
         "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
