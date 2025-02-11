@@ -20,246 +20,6 @@
         "name": "3isk v2"
     },
      {
-        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
-        "jarFileSize": 80136,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 18122,
-        "status": 1,
-        "language": "fil",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "Pinoymoviepedia",
-        "jarUrl": "https://raw.githubusercontent.com/Solominou/New/builds/Pinoymoviepedia.jar",
-        "description": "Contains Bluray7",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Pinoymoviepedia.cs3",
-        "name": "Pinoymoviepedia"
-    },
-      {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 16194,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 7,
-        "internalName": "FaselHDS",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHDS.cs3",
-        "name": "FaselHDS"
-    },
-     {
-        "iconUrl": "http://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
-        "fileSize": 17542,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "HindiProvider"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 3,
-        "internalName": "Mangoporn",
-        "description": "MangoPorn",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/Mangoporn.cs3",
-        "name": "Mangoporn"
-    },
-     {
-        "iconUrl": "https://www.film1k.com/wp-content/uploads/2023/05/cropped-film1k-1.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 10016,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Film1K"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 3,
-        "internalName": "Film1K",
-        "description": "Watch Full Sexiest Movie For Free",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Film1K.cs3",
-        "name": "Film1K"
-    },
-     {
-        "iconUrl": "https://img.cartooncdn.xyz/themes/kim/images/kimcartoon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 12406,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "HindiProviders"
-        ],
-        "tvTypes": [
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "KimCartoon",
-        "description": "KimCartoon - Watch cartoons in high quality",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KimCartoon.cs3",
-        "name": "KimCartoon"
-    },
-     {
-        "iconUrl": "https://daddylivehd1.click/wp-content/uploads/2024/10/daddylive.webp",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 15498,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "TimefourTv",
-        "description": "Sports Live Stream (Multi Region)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TimefourTv.cs3",
-        "name": "TimefourTv"
-    },
-         {
-        "iconUrl": "https://www.fullreplays.com/wp-content/uploads/2023/05/logo-ball-150x150.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 9943,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Redowan"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 3,
-        "internalName": "FullReplays",
-        "description": "Watch Football Full Match Replay and Shows",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FullReplays.cs3",
-        "name": "FullReplays"
-    },
-     {
-        "iconUrl": "https://cdn-icons-png.flaticon.com/512/4961/4961639.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 25348,
-        "status": 1,
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "version": 23,
-        "internalName": "Extractors",
-        "description": "Must Install(For other extensions to work properly)",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
-        "name": "Extractors"
-    },  
-     {
-        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 35544,
-        "status": 1,
-        "authors": [
-            "Horis, megix",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 14,
-        "internalName": "NetflixMirrorProvider",
-        "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider"
-    },
-     {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 497111,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98",
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon"
-        ],
-        "version": 150,
-        "internalName": "StreamTest",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/StreamTest.cs3",
-        "name": "StreamTest"
-    },
-     {
-        "iconUrl": "https://raw.githubusercontent.com/rockhero1234/extensions/refs/heads/master/Screenshot_20241012-211513_Binged%7E3.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 11382,
-        "status": 1,
-        "authors": [
-            "Dilip"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "BingedReview",
-        "description": "Data about streaming and review",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/BingedReview.cs3",
-        "name": "BingedReview"
-    },
-     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Coflix.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 22988,
-        "status": 1,
-        "language": "fr",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie,Anime,Cartoon"
-        ],
-        "version": 3,
-        "internalName": "Coflix",
-        "description": "Movies,Series and Anime French Extension ",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.cs3",
-        "name": "Coflix"
-    },
-     {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Solominou/New",
@@ -359,24 +119,42 @@
         "name": "FaselHD"
     },
      {
-        "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
+        "iconUrl": "https://www.film1k.com/wp-content/uploads/2023/05/cropped-film1k-1.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://git.disroot.org/ayza/FStream/",
-        "fileSize": 108629,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 10016,
         "status": 1,
-        "language": "fr",
+        "language": "en",
         "authors": [
-            "disroot.org/ayza/FStream"
+            "Film1K"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "NSFW"
         ],
-        "version": 16,
-        "internalName": "FStream",
-        "description": "Ajout de NetflixMirror 1080p (repo CSX extension codée par HORIS), Programmez des sources facilement avec la nouvelle implementation !",
-        "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
-        "name": "FStream"
+        "version": 3,
+        "internalName": "Film1K",
+        "description": "Watch Full Sexiest Movie For Free",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Film1K.cs3",
+        "name": "Film1K"
+    },
+     {
+        "iconUrl": "http://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
+        "fileSize": 17542,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Mangoporn",
+        "description": "MangoPorn",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/Mangoporn.cs3",
+        "name": "Mangoporn"
     },
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
@@ -399,6 +177,26 @@
         "name": "MyCimaProvider"
     },
      {
+        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 35544,
+        "status": 1,
+        "authors": [
+            "Horis, megix",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 14,
+        "internalName": "NetflixMirrorProvider",
+        "description": "Netflix, PrimeVideo Content in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/NetflixMirrorProvider.cs3",
+        "name": "NetflixMirrorProvider"
+    },
+     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/new",
@@ -416,6 +214,28 @@
         "description": "Series porn (use VPN if links not working)",
         "url": "https://raw.githubusercontent.com/Solominou/new/builds/Paradisehill.cs3",
         "name": "Paradisehill"
+    },
+     {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
+        "jarFileSize": 80136,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 18122,
+        "status": 1,
+        "language": "fil",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Pinoymoviepedia",
+        "jarUrl": "https://raw.githubusercontent.com/Solominou/New/builds/Pinoymoviepedia.jar",
+        "description": "Contains Bluray7",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Pinoymoviepedia.cs3",
+        "name": "Pinoymoviepedia"
     },
        {
         "iconUrl": "https://logos-world.net/wp-content/uploads/2023/01/SpankBang-Logo.png",
@@ -436,60 +256,28 @@
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/spankbang.cs3",
         "name": "spankbang"
     },
-         {
-        "iconUrl": "https://www.toontales.net/wp-content/themes/toontales/images/logo.png",
+     {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 9092,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 497111,
         "status": 1,
-        "language": "hi",
+        "language": "en",
         "authors": [
-            "Phisher98"
+            "Phisher98",
+            "Hexated"
         ],
         "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
             "Cartoon"
         ],
-        "version": 1,
-        "internalName": "ToonTales",
-        "description": "ToonTales",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonTales.cs3",
-        "name": "ToonTales"
-    },
-     {
-        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 41410,
-        "status": 1,
-        "authors": [
-            "doGior"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 10,
-        "internalName": "YouTube",
-        "description": "Videos, playlists and channels from YouTube",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
-        "name": "YouTube"
-    },
-     {
-        "iconUrl": "https://www.topcartoons.tv/wp-content/uploads/logo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 8867,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "Topcartoons",
-        "description": "Top Cartoon",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topcartoons.cs3",
-        "name": "Topcartoons"
+        "version": 150,
+        "internalName": "StreamTest",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/StreamTest.cs3",
+        "name": "StreamTest"
     }
 ]
