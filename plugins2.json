@@ -1,9 +1,29 @@
 [
-    {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "3isk v2",
+        "description": "New 3isk Site this one has 1080p quality and maybe this is the Real Site",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk_2.cs3",
+        "name": "3isk v2"
+    },
+     {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 16194,
+    "repositoryUrl": "https://github.com/Solominou/New",
+    "fileSize": 16392,
     "status": 1,
     "language": "ar",
     "authors": [
@@ -11,16 +31,232 @@
     ],
     "tvTypes": [
         "TvSeries",
-        "Movie",
-        "Anime",
-        "AsianDrama"
+        "Movie"
     ],
-    "version": 10,
-    "internalName": "FaselHDProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/FaselHDProvider.cs3",
-    "name": "FaselHDProvider"
-},
-    {
+    "version": 16,
+    "internalName": "ArabSeedProvider",
+    "url": "https://raw.githubusercontent.com/Solominou/New/builds/ArabSeedProvider.cs3",
+    "name": "ArabSeedProvider"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asia2tv.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "asian2tv",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/asian2tv.cs3",
+        "name": "asian2tv"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 13531,
+        "status": 2,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "CimaNowProvider",
+        "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 4,
+        "internalName": "EgyDeadProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/EgyDeadProvider.cs3",
+        "name": "EgydeadProvider"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "FaselHD",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHD.cs3",
+        "name": "FaselHD"
+    },
+     {
+        "iconUrl": "https://www.film1k.com/wp-content/uploads/2023/05/cropped-film1k-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 10016,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Film1K"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Film1K",
+        "description": "Watch Full Sexiest Movie For Free",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Film1K.cs3",
+        "name": "Film1K"
+    },
+     {
+        "iconUrl": "http://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
+        "fileSize": 17542,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Mangoporn",
+        "description": "MangoPorn",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/Mangoporn.cs3",
+        "name": "Mangoporn"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 19538,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Others",
+            "Anime"
+        ],
+        "version": 8,
+        "internalName": "MyCimaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
+    },
+     {
+        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 35544,
+        "status": 1,
+        "authors": [
+            "Horis, megix",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 14,
+        "internalName": "NetflixMirrorProvider",
+        "description": "Netflix, PrimeVideo Content in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/NetflixMirrorProvider.cs3",
+        "name": "NetflixMirrorProvider"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 11252,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sora"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "Paradisehill",
+        "description": "Series porn (use VPN if links not working)",
+        "url": "https://raw.githubusercontent.com/Solominou/new/builds/Paradisehill.cs3",
+        "name": "Paradisehill"
+    },
+     {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
+        "jarFileSize": 80136,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 18122,
+        "status": 1,
+        "language": "fil",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Pinoymoviepedia",
+        "jarUrl": "https://raw.githubusercontent.com/Solominou/New/builds/Pinoymoviepedia.jar",
+        "description": "Contains Bluray7",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Pinoymoviepedia.cs3",
+        "name": "Pinoymoviepedia"
+    },
+       {
+        "iconUrl": "https://logos-world.net/wp-content/uploads/2023/01/SpankBang-Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
+        "fileSize": 9701,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "spankbang",
+        "description": "Spankbang",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/spankbang.cs3",
+        "name": "spankbang"
+    },
+     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -38,222 +274,10 @@
             "Movie",
             "Cartoon"
         ],
-        "version": 148,
+        "version": 150,
         "internalName": "StreamTest",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/StreamTest.cs3",
         "name": "StreamTest"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 16194,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 7,
-        "internalName": "FaselHDS",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/FaselHDS.cs3",
-        "name": "FaselHDS"
-    },
-    {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 19538,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie",
-        "Anime"
-    ],
-    "version": 11,
-    "internalName": "MyCimaProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/MyCimaProvider.cs3",
-    "name": "MyCimaProvider"
-},
-{
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 16939,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie"
-    ],
-    "version": 5,
-    "internalName": "FajerShowProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/FajerShowProvider.cs3",
-    "name": "FajerShowProvider"
-},
-{
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/yoyzo/arab",
-    "fileSize": 20624,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "ImZaw"
-    ],
-    "tvTypes": [
-        "Anime"
-    ],
-    "version": 5,
-    "internalName": "AnimeiatProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeiatProvider.cs3",
-    "name": "AnimeiatProvider"
-},
-{
-    "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 16392,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie"
-    ],
-    "version": 11,
-    "internalName": "ArabSeedProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabSeedProvider.cs3",
-    "name": "ArabSeedProvider"
-},
-{
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 13332,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "Anime",
-        "AnimeMovie",
-        "OVA"
-    ],
-    "version": 5,
-    "internalName": "AnimeBlkomProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
-    "name": "AnimeBlkomProvider"
-},
-{
-    "iconUrl": "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 16939,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "KingSlayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie"
-    ],
-    "version": 3,
-    "internalName": "Shoffree",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/ShoffreeProvider.cs3",
-    "name": "ShoffreeProvider"
-},
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "SagaProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
-        "name": "SagaProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "ToktokProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Toktok.cs3",
-        "name": "ToktokProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=o77.shop&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "Cima4uProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Cima4u.cs3",
-        "name": "Cima4uProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=arlionztv.click&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "ArabLionzProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabLionz.cs3",
-        "name": "ArabLionzProvider"
     }
 ]
