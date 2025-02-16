@@ -274,8 +274,8 @@
             "Movie",
             "Cartoon"
         ],
-        "version": 150,
-        "internalName": "StreamTest",
+        "version": 163,
+        "internalName": "SoloStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/StreamTest.cs3",
         "name": "StreamTest"
