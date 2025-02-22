@@ -1,25 +1,5 @@
 [
      {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 7,
-        "internalName": "3isk v2",
-        "description": "New 3isk Site this one has 1080p quality and maybe this is the Real Site",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/3isk_2.cs3",
-        "name": "3isk v2"
-    },
-     {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Solominou/New",
@@ -119,44 +99,6 @@
         "name": "FaselHD"
     },
      {
-        "iconUrl": "https://www.film1k.com/wp-content/uploads/2023/05/cropped-film1k-1.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 10016,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Film1K"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 3,
-        "internalName": "Film1K",
-        "description": "Watch Full Sexiest Movie For Free",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Film1K.cs3",
-        "name": "Film1K"
-    },
-     {
-        "iconUrl": "http://mangoporn.net/wp-content/uploads/2024/07/mangoporn.net_.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
-        "fileSize": 17542,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "HindiProvider"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 3,
-        "internalName": "Mangoporn",
-        "description": "MangoPorn",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/Mangoporn.cs3",
-        "name": "Mangoporn"
-    },
-     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/New",
@@ -175,45 +117,6 @@
         "internalName": "MyCimaProvider",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/MyCimaProvider.cs3",
         "name": "MyCimaProvider"
-    },
-     {
-        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/New",
-        "fileSize": 35544,
-        "status": 1,
-        "authors": [
-            "Horis, megix",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 14,
-        "internalName": "NetflixMirrorProvider",
-        "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/Solominou/New/builds/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider"
-    },
-     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/new",
-        "fileSize": 11252,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Sora"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 4,
-        "internalName": "Paradisehill",
-        "description": "Series porn (use VPN if links not working)",
-        "url": "https://raw.githubusercontent.com/Solominou/new/builds/Paradisehill.cs3",
-        "name": "Paradisehill"
     },
      {
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
@@ -236,25 +139,6 @@
         "description": "Contains Bluray7",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/Pinoymoviepedia.cs3",
         "name": "Pinoymoviepedia"
-    },
-       {
-        "iconUrl": "https://logos-world.net/wp-content/uploads/2023/01/SpankBang-Logo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/18plus-Extensions",
-        "fileSize": 9701,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "HindiProvider"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 8,
-        "internalName": "spankbang",
-        "description": "Spankbang",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/spankbang.cs3",
-        "name": "spankbang"
     },
      {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
