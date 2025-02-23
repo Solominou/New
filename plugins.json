@@ -113,7 +113,7 @@
             "Others",
             "Anime"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "MyCimaProvider",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/MyCimaProvider.cs3",
         "name": "MyCimaProvider"
