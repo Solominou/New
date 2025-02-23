@@ -163,5 +163,24 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/StreamPlay.cs3",
         "name": "StreamPlay"
-    }
+    },
+     {
+        "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/ultima.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/New",
+        "fileSize": 188470,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 42,
+        "internalName": "Ultima",
+        "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Ultima.cs3",
+        "name": "Ultima"
+     }
 ]
