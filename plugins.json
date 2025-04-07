@@ -77,6 +77,27 @@
         "url": "https://raw.githubusercontent.com/Solominou/New/builds/EgyDeadProvider.cs3",
         "name": "EgydeadProvider"
     },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/new",
+        "fileSize": 19921,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Extractors",
+        "description": "This is required to be downloaded.",
+        "url": "https://raw.githubusercontent.com/Solominou/New/builds/Extractors.cs3",
+        "name": "Extractors"
+    },
      {
         "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
         "apiVersion": 1,
